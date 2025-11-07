@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(uv run:*)",
+      "Bash(uv build:*)",
+      "Bash(ruff check:*)",
+      "Bash(ruff format:*)",
+      "Bash(isort:*)",
+      "Bash(unzip:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
