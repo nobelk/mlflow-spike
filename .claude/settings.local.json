@@ -7,7 +7,9 @@
       "Bash(ruff check:*)",
       "Bash(ruff format:*)",
       "Bash(isort:*)",
-      "Bash(unzip:*)"
+      "Bash(unzip:*)",
+      "Bash(mkdir:*)",
+      "Bash(uv sync:*)"
     ],
     "deny": [],
     "ask": []
